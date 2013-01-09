@@ -1,0 +1,4 @@
+proto-smarthug
+==============
+
+Prototypes smartHUG
